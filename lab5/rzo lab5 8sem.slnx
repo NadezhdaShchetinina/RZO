@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="rzo lab5 8sem/rzo lab5 8sem.vcxproj" />
-</Solution>
